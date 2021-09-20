@@ -11,3 +11,4 @@ target/*
 .vscode
 _site/
 test_ignore.html
+docker-compose.yml
